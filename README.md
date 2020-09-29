@@ -1,4 +1,4 @@
-# FiveMinutesTecgInterview
+# FiveMinutesTechInterview
 
 > FMTI
 
