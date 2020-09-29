@@ -8,5 +8,5 @@ Interactive present with React web framework.
 - Algorithm
 - Operating System
 - Network
-- Human-Resource-er chanllge...
+- Human-Resource-er chanllging...
 - DO NOT PANIC! || がんばります! || 一定要实现!
